@@ -1,16 +1,16 @@
-### Hi there 👋
+Soy Juan Manuel Romero,tengo 21 años. Vivo en Mendoza, Argentina. Me apaciona la programación desde hace ya varios años, me gusta investigar y aprender nuevos conocimientos, me gustan los desafios y encontrar las diferentes formas de resolverlos.
 
-<!--
-**juanmaromero2/juanmaromero2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi stack tecnológico es el siguiente: 
+-JavaScript 
+-ReactJS 
+-NodeJS 
+-Express 
+-Sequelize 
+-PostgreSQL 
+-HTML 
+-CSS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto:
+-romerojuanma02@gmail.com
+-https://www.linkedin.com/in/juan-manuel-romero-b324a7282/
